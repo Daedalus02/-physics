@@ -1,0 +1,6 @@
+Note:   In the development of this project few choices were made to keep the process simple, transparent and as 
+        efficient as possible.
+1)  One of the most visible one is the implementation of the translation units concept
+2)  The use of declared patterns (see Pattern.txt in this directory) to make the understandment of the 
+    classes behavior simpler.
+3)  
